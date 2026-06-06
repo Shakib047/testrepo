@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Sports",Willow SPORTS HD
 https://playztv-apps.pages.dev/willow/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Willow SPORTS HD 2
-https://plu002.myturn1.top:8088/live/webcricwillow/playlist.m3u8?vidictid=205971486117&id=120375&pk=9c8e54189c8a70e36dcd6ca1f00f31819343370c6df9a46c3ab89fa9a01178f4d6b3a4c210225da881160994286604bb82a8d6aee68b18a78a60b7d15f2db9a8
 #EXTINF:-1 tvg-logo="" group-title="Sports",STARZ PLAY CRICKET HD
 https://001.cdnplayer.eu/live/csstream1/chunklist.m3u8?vidictid=205975416942&id=1001&pk=7f8e4b472823abfd6317fd43833f7b54aa4d9d81241c3a5f42f06a04425d6bd7
 #EXTINF:-1 tvg-logo="" group-title="Sports",MY CO SPORTS HD
