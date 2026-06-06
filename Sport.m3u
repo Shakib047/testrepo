@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Sports",Willow SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaCkYg3.png" group-title="Sports",Willow SPORTS HD
 https://playztv-apps.pages.dev/willow/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",STARZ PLAY CRICKET HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ZRcX3M.png" group-title="Sports",STARZ PLAY CRICKET HD
 https://001.cdnplayer.eu/live/csstream1/chunklist.m3u8?vidictid=205975416942&id=1001&pk=7f8e4b472823abfd6317fd43833f7b54aa4d9d81241c3a5f42f06a04425d6bd7
-#EXTINF:-1 tvg-logo="" group-title="Sports",MY CO SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4yDz9kp.png" group-title="Sports",MY CO SPORTS HD
 https://cdn01.medialive.one:2096/RTMP-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",DD Sports HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nzqX3p.png" group-title="Sports",DD Sports HD
 https://cdn-6.pishow.tv/live/13/13_2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports 1 HINDI HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOzEa8C.png" group-title="Sports",Star Sports 1 HINDI HD
 https://starsportshindiii.pages.dev/720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOzEa8C.png" group-title="Sports",Star Sports 1 HD
 https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AQ1Y2s.png" group-title="Sports",Star Sports 2 HD
 https://flussonic.deltainfonet.com/08_STAR-SPORTS_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kVJgHt7.png" group-title="Sports",Star Sports 3 HD
 https://flussonic.deltainfonet.com/09_STAR-SPORTS_3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports Select 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOzEa8C.png" group-title="Sports",Star Sports Select 1 HD
 https://tyr.zibobdixserver.top/hls/StarSportsSelect1HD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports Select 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOzEa8C.png" group-title="Sports",Star Sports Select 2 HD
 https://tyr.zibobdixserver.top/hls/StarSportsSelect2HD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NwyT2zw.png" group-title="Sports",SONY SPORTS 1
 https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_1_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NwyT2zw.png" group-title="Sports",SONY SPORTS 2
 https://stream.ottplus.bd/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NwyT2zw.png" group-title="Sports",SONY SPORTS 5
 https://stream.ottplus.bd/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",EURO SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1WmYjPb.png" group-title="Sports",EURO SPORTS HD
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",TEN CRICKET HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ZRcX3M.png" group-title="Sports",TEN CRICKET HD
 https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",OM SPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ivTkS5u.png" group-title="Sports",OM SPORTS
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",LALIGA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6sCj1sr.png" group-title="Sports",LALIGA
 https://d3bb58xoj568xi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/1711a619-b417-413d-b073-e226df10b3ab/2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",T SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yq1mtVU.png" group-title="Sports",T SPORTS HD
 https://playztv-apps.pages.dev/tsports/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",PTV SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nzqX3p.png" group-title="Sports",PTV SPORTS HD
 https://playztv-apps.pages.dev/ptvsports/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",A SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1c9T2V.png" group-title="Sports",A SPORTS HD
 https://playztv-apps.pages.dev/asports/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",A SPOR HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/miHpVjQ.png" group-title="Sports",A SPOR HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORRTS XTRA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kVEsH3p.png" group-title="Sports",BEIN SPORRTS XTRA
 https://bein-esp-xumo.amagi.tv/playlistR480p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",REAL MADRID
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLlQz4R.png" group-title="Sports",REAL MADRID
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
